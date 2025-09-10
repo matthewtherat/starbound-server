@@ -88,7 +88,7 @@ Prompts for your Steam username and password, then downloads Starbound + all mod
 # Optional name after ID, otherwise the .pak will be named by its ID
 729480149 FrackinUniverse
 729492703
-1264107917 BetterGraphics
+1264107917 # This is a comment
 ```
 
 * First column = Workshop ID
